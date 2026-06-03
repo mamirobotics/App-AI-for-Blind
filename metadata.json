@@ -1,0 +1,6 @@
+{
+  "name": "Voice Camera and Location Assistant for the Blind",
+  "description": "An assistive application for visually impaired individuals, providing voice feedback of objects detected via the camera, location updates, and spoken audio guides.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
